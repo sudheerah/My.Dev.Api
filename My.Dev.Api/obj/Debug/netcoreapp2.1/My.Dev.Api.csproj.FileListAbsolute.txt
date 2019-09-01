@@ -1,0 +1,11 @@
+C:\Users\A133928\OneDrive\AGL\Projects\MyProjects\DotNetCore-API\My.Dev.Api\My.Dev.Api\bin\Debug\netcoreapp2.1\My.Dev.Api.deps.json
+C:\Users\A133928\OneDrive\AGL\Projects\MyProjects\DotNetCore-API\My.Dev.Api\My.Dev.Api\bin\Debug\netcoreapp2.1\My.Dev.Api.runtimeconfig.json
+C:\Users\A133928\OneDrive\AGL\Projects\MyProjects\DotNetCore-API\My.Dev.Api\My.Dev.Api\bin\Debug\netcoreapp2.1\My.Dev.Api.runtimeconfig.dev.json
+C:\Users\A133928\OneDrive\AGL\Projects\MyProjects\DotNetCore-API\My.Dev.Api\My.Dev.Api\bin\Debug\netcoreapp2.1\My.Dev.Api.dll
+C:\Users\A133928\OneDrive\AGL\Projects\MyProjects\DotNetCore-API\My.Dev.Api\My.Dev.Api\bin\Debug\netcoreapp2.1\My.Dev.Api.pdb
+C:\Users\A133928\OneDrive\AGL\Projects\MyProjects\DotNetCore-API\My.Dev.Api\My.Dev.Api\obj\Debug\netcoreapp2.1\My.Dev.Api.csprojAssemblyReference.cache
+C:\Users\A133928\OneDrive\AGL\Projects\MyProjects\DotNetCore-API\My.Dev.Api\My.Dev.Api\obj\Debug\netcoreapp2.1\My.Dev.Api.csproj.CoreCompileInputs.cache
+C:\Users\A133928\OneDrive\AGL\Projects\MyProjects\DotNetCore-API\My.Dev.Api\My.Dev.Api\obj\Debug\netcoreapp2.1\My.Dev.Api.AssemblyInfoInputs.cache
+C:\Users\A133928\OneDrive\AGL\Projects\MyProjects\DotNetCore-API\My.Dev.Api\My.Dev.Api\obj\Debug\netcoreapp2.1\My.Dev.Api.AssemblyInfo.cs
+C:\Users\A133928\OneDrive\AGL\Projects\MyProjects\DotNetCore-API\My.Dev.Api\My.Dev.Api\obj\Debug\netcoreapp2.1\My.Dev.Api.dll
+C:\Users\A133928\OneDrive\AGL\Projects\MyProjects\DotNetCore-API\My.Dev.Api\My.Dev.Api\obj\Debug\netcoreapp2.1\My.Dev.Api.pdb
