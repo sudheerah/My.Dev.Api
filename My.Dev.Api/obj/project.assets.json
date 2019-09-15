@@ -11793,11 +11793,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\A133928\\OneDrive\\AGL\\Projects\\MyProjects\\DotNetCore-API\\My.Dev.Api\\My.Dev.Api\\My.Dev.Api.csproj",
+      "projectUniqueName": "C:\\Users\\A133928\\Downloads\\My.Dev.Api\\My.Dev.Api\\My.Dev.Api.csproj",
       "projectName": "My.Dev.Api",
-      "projectPath": "C:\\Users\\A133928\\OneDrive\\AGL\\Projects\\MyProjects\\DotNetCore-API\\My.Dev.Api\\My.Dev.Api\\My.Dev.Api.csproj",
+      "projectPath": "C:\\Users\\A133928\\Downloads\\My.Dev.Api\\My.Dev.Api\\My.Dev.Api.csproj",
       "packagesPath": "C:\\Users\\A133928\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\A133928\\OneDrive\\AGL\\Projects\\MyProjects\\DotNetCore-API\\My.Dev.Api\\My.Dev.Api\\obj\\",
+      "outputPath": "C:\\Users\\A133928\\Downloads\\My.Dev.Api\\My.Dev.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
